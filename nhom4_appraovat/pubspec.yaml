@@ -1,0 +1,68 @@
+name: nhom4_appraovat
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.1 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^4.2.1
+  smooth_page_indicator: ^1.1.0
+  curved_navigation_bar: ^1.0.3
+  group_list_view: ^1.1.1
+  http: ^1.1.0
+  awesome_dialog: ^3.1.0
+  flutter_smart_dialog: ^4.9.5+1
+  shared_preferences: ^2.2.2
+  flutter_native_splash: ^2.3.5
+  image_picker: ^1.0.4
+  camera: ^0.10.5+5
+flutter_native_splash:
+  android: true
+  color: "#ffffff"
+  image: "assets/images/logo_rao_vat.jpg"
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets\images/images01.jpg
+    - assets\images/images02.jpg
+    - assets\images/images03.jpg
+    - assets\images/images04.jpg
+    - assets\images/images05.jpg
+    - assets\images/iphone-14-pro-vang.jpg
+    - assets\images/logo_rao_vat.jpg
+    - assets\images/ex.jpg
+    - assets\images/winner.jpg
+    - assets\images/dong-ho-deo-tay-ELLE-Man.jpg
+    - assets\images/laptop-rog.jpg
+    - assets\images/xemay.jpg
+    - assets\images/win.jpg
+    - assets\images/logooo.jpg
+    - assets\images/iphone-14-pro-vang.jpg
+    - assets\images/Dh.jpg
+    - assets\images/Laptop.jpg
+    - assets\images/logo_login.png
+    - assets/loading_bg.png
